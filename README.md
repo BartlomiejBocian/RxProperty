@@ -1,6 +1,6 @@
 # RxProperty
 
-Property wrapper for hiding BehaviorRelay and expose Driver insted.
+Property wrapper for hiding BehaviorRelay and expose Driver instead.
 
 # Example
 
